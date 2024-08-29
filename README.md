@@ -10,17 +10,15 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Web3, GameDev**
+- 🌱 I’m currently learning **Web3, OpenCV**
 - 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-- 🌍 I speak English
+- 📫 Reach me by [email](mailto:nikita.sm1nt@yandex.ru)
+- 🌍 I speak Russian, English
 
 ---
 
 ### Languages and tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="css" width="40" height="40"/>&nbsp;
