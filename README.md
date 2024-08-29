@@ -5,7 +5,7 @@
 
 ### About me
 - 🌱 I’m currently learning **Web3, OpenCV**
-- 📝 I’m currently developing  [Pedestrian Tracker]([medium-link](https://github.com/meshcheryakov-nikita/Pedestrian-Tracker.git))
+- 📝 I’m currently developing  [Pedestrian Tracker](https://github.com/meshcheryakov-nikita/Pedestrian-Tracker.git)
 - 📫 Reach me by [email](mailto:nikita.sm1nt@yandex.ru)
 - 🌍 I speak Russian, English
 
