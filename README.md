@@ -6,7 +6,7 @@
 ### About me
 - 🌱 I’m currently learning **Web3, OpenCV**
 - 📝 I’m currently developing  [Pedestrian Tracker](https://github.com/meshcheryakov-nikita/Pedestrian-Tracker.git)
-- 📫 Reach me by [email](mailto:nikita.sm1nt@yandex.ru) and Telegram (@Sm1nT)
+- 📫 Reach me by [Email](mailto:nikita.sm1nt@yandex.ru) and [Telegram](https://t.me/sm1nt)
 - 🌍 I speak Russian, English
 
 ---
@@ -17,6 +17,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="40" height="40"/>&nbsp;
+          
           
 
           
